@@ -1,0 +1,5 @@
+pool: 'macOS Agent Pool'
+
+steps:
+- script: echo Hello, World!
+  displayName: hello-world
