@@ -1,5 +1,8 @@
 pool: 'macOS Agent Pool'
 
+variables:
+  System.Debug: true
+
 steps:
 - script: echo Hello, World!
   displayName: hello-world
