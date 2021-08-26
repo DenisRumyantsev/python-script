@@ -1,4 +1,4 @@
-pool: 'macOS Agent Pool'
+pool: 'Agent Pool Zero'
 
 variables:
   System.Debug: true
